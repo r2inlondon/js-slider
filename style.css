@@ -1,3 +1,4 @@
-h1 {
-  color: aquamarine;
+.splide__slide img {
+  width: 100%;
+  height: auto;
 }
